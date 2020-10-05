@@ -25,3 +25,5 @@ Notes for Learning IELTS
 * **Developing** a deeper **understanding** of customer needs will be key to driving profitability
 * **Addressing** these pain points is critical for auto enterprises
 * **Exposing** emerging markets **to** increased financial difficulties
+* Damage can be done to credibility by pushing sales **at the expense of** prices
+* The composition of brands on the list consumers make **mirrors** the data on maket concentration
