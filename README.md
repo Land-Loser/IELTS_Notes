@@ -1,7 +1,10 @@
 # IELTS_Notes
 Notes for Learning IELTS
 
-## 地道句式：
+## 地道句式（小作文）：
+* **A notable proportion (23 percent) of** respondents said they could not think of any
+
+## 地道句式（大作文）：
 * Students who **fail to**…
 * The survey **aims to**…
 * (something) **is important beyond** (something)…
@@ -27,3 +30,5 @@ Notes for Learning IELTS
 * **Exposing** emerging markets **to** increased financial difficulties
 * Damage can be done to credibility by pushing sales **at the expense of** prices
 * The composition of brands on the list consumers make **mirrors** the data on maket concentration
+* Offline **remains dominant** even as importance of online channels grows
+* Revamping service by **doubling down on** consumer experience will assist with communication
