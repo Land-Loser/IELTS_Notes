@@ -96,13 +96,13 @@ Traditional / Conventional
 一般好词：
 Imperative / Terminology / Fatigue / Facilitate / Perplexing
 Exacerbate / Insufficient / Identify / Relevant / Countermeasure
-Hinder / Counterpart / Establish / Preliminary
+Hinder / Counterpart / Establish / Preliminary / undermine
 
 高频短语：
 Academic Performance / Intensified Competition / Build Consensus
 Strong Resilience / Major Disturbance / Deflate Confidence
 Lag Behind / Vigorious Debate / Underlying Motivations
-Sluggish Performance / 
+Sluggish Performance / intensifies competition
 
 ## 地道句式（小作文）：
 * **A notable proportion (23 percent) of** respondents said they could not think of any
@@ -135,3 +135,4 @@ Sluggish Performance /
 * The composition of brands on the list consumers make **mirrors** the data on maket concentration
 * Offline **remains dominant** even as importance of online channels grows
 * Revamping service by **doubling down on** consumer experience will assist with communication
+* This flexibility **is indicative of** evolving consumer demand in China
