@@ -54,8 +54,15 @@ Indicate / Given / in turn / at the expense of / enable / foster
 不好的/不利的/有害的：
 
 
+增加:
+
+
+
+减少:
+
+
 不同的：
-Different / Various
+Different / Various / Discrepancy / Disparity 
 
 显著的/主要的/重要的:
 Main / Primarily / Major / majority of / Substantial
@@ -80,7 +87,7 @@ Develop / Improve / Advance / Enhance / Promote / facilitate
 
 缺陷/不足/妥协/减少/限制：
 Weakness / Shortcoming / Vulnerability / Compromise / diminish
-curtail / Prohibit / hinder
+curtail / Prohibit / hinder / impede
 
 困难/复杂的：
 Difficult / Challenging / Complicated
@@ -104,7 +111,7 @@ Hinder / Counterpart / Establish / Preliminary / undermine
 Academic Performance / Intensified Competition / Build Consensus
 Strong Resilience / Major Disturbance / Deflate Confidence
 Lag Behind / Vigorious Debate / Underlying Motivations
-Sluggish Performance / intensifies competition
+Sluggish Performance / intensifies competition / Widen the gulf
 
 ## 地道句式（小作文）：
 * **A notable proportion (23 percent) of** respondents said they could not think of any
@@ -138,3 +145,6 @@ Sluggish Performance / intensifies competition
 * Offline **remains dominant** even as importance of online channels grows
 * Revamping service by **doubling down on** consumer experience will assist with communication
 * This flexibility **is indicative of** evolving consumer demand in China
+* The pandemic will **leave** economies less globalised, more digitised and less equal
+* America has shown **less inclination** than Europe to bail out firms that are becoming obsolete
+* Critical reforms seem impossible when both sides **define** compromise **as** weakness
